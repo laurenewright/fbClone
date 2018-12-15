@@ -2,3 +2,22 @@
 fb red notification #fa3e3e
 fb gray #e9ebee */
 
+header {
+    background-color: #4267b2;
+}
+
+nav {
+        text-align: right;
+}
+
+nav li {
+    display: inline-block;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
