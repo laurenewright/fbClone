@@ -70,15 +70,19 @@ footer{
     text-align: center;
     /* display: block; */
 }
-
+/* 
 @media screen and (min-width: 480px) {
     header {
         text-align: center;
     }
-}
+} */
 
 @media screen and (min-width: 660px) {
     nav {
         text-align: right;
+    },
+    #icon{
+        text-align: left;
+        display: left; 
     }
 } */
