@@ -46,7 +46,6 @@ input {
 
 nav {
     text-align: center;
-    padding-left: %; 
     padding: 10px 0;
     margin: 20px 0 0;
     display: inline-block;
@@ -85,9 +84,9 @@ footer{
 @media screen and (min-width: 660px) {
     nav {
         text-align: right;
-    },
+    }
     #icon{
         text-align: left;
         display: left; 
     }
-} */
+}
